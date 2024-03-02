@@ -1,5 +1,5 @@
 # proverka
-ok
+Вы находитесь в созданном репозитории proverka
 
 Commands();
 string[] array = new string[] {};
